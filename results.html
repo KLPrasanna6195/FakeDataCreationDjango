@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<h1>Users Information</h1><hr>
+{%if Users %}
+    <table border="2">
+        <thead>
+            <th> Users id </th>
+            <th> Users real_name </th>
+            <th> Users tz </th>
+            <th> Users activity_periods </th>
+            <th> Users start_time </th>
+            <th> Users End_time </th>
+        </thead>
+        {%for user in Users %}
+            <tr>
+                <td>{{user.id}}</td>
+                <td>{{user.real_name}}</td>
+                <td>{{user.tz}}</td>
+                <td>{{user.activity_periods}}</td>
+                <td>{{user.start_time}}</td>
+                <td>{{user.End_time}}</td>
+            </tr>
+    {%endfor%}
+    </table>
+    {%else%}
+    <p>No User Records Found!!</p>
+{%endif%}
+
+</body>
+</html>
