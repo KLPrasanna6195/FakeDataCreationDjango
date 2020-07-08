@@ -1,0 +1,96 @@
+{
+	"ok": true,
+	"members": [{
+			"id": "W012A3CDE",
+			"real_name": "Egon Spengler",
+			"tz": "America/Los_Angeles",
+			"activity_periods": [{
+					"start_time": "Feb 1 2020  1:33PM",
+					"end_time": "Feb 1 2020 1:54PM"
+				},
+				{
+					"start_time": "Mar 1 2020  11:11AM",
+					"end_time": "Mar 1 2020 2:00PM"
+				},
+				{
+					"start_time": "Mar 16 2020  5:33PM",
+					"end_time": "Mar 16 2020 8:02PM"
+				}
+			]
+		},
+		{
+			"id": "W07QCRPA4",
+			"real_name": "Glinda Southgood",
+			"tz": "Asia/Kolkata",
+			"activity_periods": [{
+					"start_time": "Feb 1 2020  1:33PM",
+					"end_time": "Feb 1 2020 1:54PM"
+				},
+				{
+					"start_time": "Mar 1 2020  11:11AM",
+					"end_time": "Mar 1 2020 2:00PM"
+				},
+				{
+					"start_time": "Mar 16 2020  5:33PM",
+					"end_time": "Mar 16 2020 8:02PM"
+				}
+			]
+		}
+	]
+}
+
+[{"model": "dummydata.users", "pk": 255, "fields": {"real_name": "Brenda Chaney"
+, "tz": "Vietnam", "activity_periods": "23:02:43.232", "start_time": "2020-01-10
+T09:11:51Z", "End_time": "2020-02-19T00:00:00Z"}}, {"model": "dummydata.users",
+"pk": 441, "fields": {"real_name": "Jeffrey Johnson DVM", "tz": "Norfolk Island"
+, "activity_periods": "23:02:43.545", "start_time": "2020-02-26T21:33:02Z", "End
+_time": "2020-05-14T00:00:00Z"}}, {"model": "dummydata.users", "pk": 1186, "fiel
+ds": {"real_name": "Charles Fuentes", "tz": "Sweden", "activity_periods": "23:00
+:28.926", "start_time": "2020-05-20T18:33:17Z", "End_time": "2020-06-12T00:00:00
+Z"}}, {"model": "dummydata.users", "pk": 1393, "fields": {"real_name": "Maria Hu
+ghes MD", "tz": "Netherlands Antilles", "activity_periods": "23:02:43.105", "sta
+rt_time": "2020-06-11T08:41:40Z", "End_time": "2020-04-22T00:00:00Z"}}, {"model"
+: "dummydata.users", "pk": 1531, "fields": {"real_name": "Shannon Wright", "tz":
+ "Syrian Arab Republic", "activity_periods": "23:00:29.271", "start_time": "2020
+-04-22T10:07:44Z", "End_time": "2020-06-18T00:00:00Z"}}, {"model": "dummydata.us
+ers", "pk": 1906, "fields": {"real_name": "Suzanne Roberts", "tz": "Canada", "ac
+tivity_periods": "23:00:29.581", "start_time": "2020-04-02T01:17:38Z", "End_time
+": "2020-05-19T00:00:00Z"}}, {"model": "dummydata.users", "pk": 2002, "fields":
+{"real_name": "Julie Schmidt", "tz": "Sri Lanka", "activity_periods": "23:00:29.
+792", "start_time": "2020-05-27T16:40:10Z", "End_time": "2020-06-09T00:00:00Z"}}
+, {"model": "dummydata.users", "pk": 3935, "fields": {"real_name": "Michael Davi
+s", "tz": "Bhutan", "activity_periods": "23:02:42.881", "start_time": "2020-04-2
+3T19:02:49Z", "End_time": "2020-06-15T00:00:00Z"}}, {"model": "dummydata.users",
+ "pk": 4600, "fields": {"real_name": "Shirley Robinson", "tz": "Cambodia", "acti
+vity_periods": "23:02:42.436", "start_time": "2020-03-04T21:04:23Z", "End_time":
+ "2020-04-12T00:00:00Z"}}, {"model": "dummydata.users", "pk": 4641, "fields": {"
+real_name": "Mrs. Dawn Allen", "tz": "Tanzania", "activity_periods": "23:00:29.1
+60", "start_time": "2020-02-25T08:41:27Z", "End_time": "2020-06-16T00:00:00Z"}},
+ {"model": "dummydata.users", "pk": 4825, "fields": {"real_name": "Lauren Baker"
+, "tz": "Palestinian Territory", "activity_periods": "23:02:43.000", "start_time
+": "2020-01-24T10:19:33Z", "End_time": "2020-06-14T00:00:00Z"}}, {"model": "dumm
+ydata.users", "pk": 6754, "fields": {"real_name": "Joel Galloway", "tz": "Saint
+Barthelemy", "activity_periods": "23:02:43.439", "start_time": "2020-04-30T23:28
+:40Z", "End_time": "2020-04-11T00:00:00Z"}}, {"model": "dummydata.users", "pk":
+7153, "fields": {"real_name": "William Davis", "tz": "Central African Republic",
+ "activity_periods": "23:02:43.337", "start_time": "2020-01-29T00:00:27Z", "End_
+time": "2020-02-02T00:00:00Z"}}, {"model": "dummydata.users", "pk": 7354, "field
+s": {"real_name": "Brittany Mills", "tz": "French Southern Territories", "activi
+ty_periods": "23:02:42.765", "start_time": "2020-05-01T18:34:15Z", "End_time": "
+2020-05-21T00:00:00Z"}}, {"model": "dummydata.users", "pk": 7662, "fields": {"re
+al_name": "Beverly Norman", "tz": "Saint Martin", "activity_periods": "23:00:29.
+888", "start_time": "2020-03-27T15:55:53Z", "End_time": "2020-05-28T00:00:00Z"}}
+, {"model": "dummydata.users", "pk": 8099, "fields": {"real_name": "Mark Blair",
+ "tz": "Cote d'Ivoire", "activity_periods": "23:02:42.643", "start_time": "2020-
+05-20T13:23:23Z", "End_time": "2020-06-28T00:00:00Z"}}, {"model": "dummydata.use
+rs", "pk": 8260, "fields": {"real_name": "Logan Lopez", "tz": "Slovenia", "activ
+ity_periods": "23:00:29.365", "start_time": "2020-01-27T05:33:44Z", "End_time":
+"2020-06-12T00:00:00Z"}}, {"model": "dummydata.users", "pk": 8397, "fields": {"r
+eal_name": "Barbara Lyons", "tz": "Cambodia", "activity_periods": "23:00:29.689"
+, "start_time": "2020-02-29T13:24:54Z", "End_time": "2020-07-04T00:00:00Z"}}, {"
+model": "dummydata.users", "pk": 9456, "fields": {"real_name": "David Warner", "
+tz": "Benin", "activity_periods": "23:00:29.485", "start_time": "2020-02-24T12:3
+8:27Z", "End_time": "2020-04-18T00:00:00Z"}}, {"model": "dummydata.users", "pk":
+ 9646, "fields": {"real_name": "Courtney Hoover", "tz": "Belarus", "activity_per
+iods": "23:00:29.052", "start_time": "2020-02-24T08:22:34Z", "End_time": "2020-0
+4-01T00:00:00Z"}}]
